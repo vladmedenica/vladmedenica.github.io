@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "Vladimir Enrique Medenica"
 image: "vlad.jpg"
 # color1: "#0217D1"
 # color2: "#0283d2"
@@ -19,4 +19,4 @@ output:
   postcards::onofre
 ---
  
-I am an Assistant Professor in the Department of Political Science & International Relations at the University of Delaware. I received my Ph.D. in Politics and Social Policy from Princeton University and am proud to have been raised as a child of immigrants in Southern California.
+Hi there! I am an Assistant Professor of Political Science at the University of Delaware, research consultant for the GenForward Survey at the University of Chicago, and an American politics editor for The Monkey Cage at The Washington Post. Originally from the borderlands of Southern California, I received my Ph.D. in Politics and Social Policy from Princeton University.
