@@ -1,22 +1,26 @@
 ---
-title: "Vladimir Enrique Medenica"
+title: "Vlad Enrique Medenica, PhD"
 image: "vlad.jpg"
-# color1: "#0217D1"
-# color2: "#0283d2"
-color1: "#0283d2"
-color2: "#81CEFE"
-angle: 140
 links:
-  - label: Website
-    url: "https://www.vladmedenica.com/"
-  - label: Twitter
-    url: "https://twitter.com/vladmedenica"
-  - label: Email
-    url: "mailto:medenica@udel.edu"
-  - label: GitHub
-    url: "https://github.com/vladmedenica"
+  # - label: Website
+  #   url: "https://www.vladmedenica.com/"
+  # - label: Twitter
+  #   url: "https://twitter.com/vladmedenica"
+  - label: Email me
+    url: "mailto:vlad.medenica@gmail.com"
+  - label: Connect on LinkedIn
+    url: "https://www.linkedin.com/in/vladenriquemedenica"
+  # - label: GitHub
+  #   url: "https://github.com/vladmedenica"
 output:
-  postcards::onofre
+  postcards::trestles
 ---
 
+### Bio
 Hi there! I am an Assistant Professor of Political Science at the University of Delaware, research consultant for the GenForward Survey at the University of Chicago, and an American politics editor for The Monkey Cage at *The Washington Post*. Originally from the borderlands of Southern California, I received my Ph.D. in Politics and Social Policy from Princeton University.
+
+### Education
+
+### Skills
+
+### Experience
