@@ -16,8 +16,8 @@ output:
   postcards::trestles
 ---
 
-### Bio
-I am a quantitative social scientist with a passion for leveraging my training in data analysis and social inequality to identify, communicate, and address systemic inequities. 
+### About
+I am a quantitative social scientist with a passion for leveraging my training in data science and social inequality to identify, communicate, and address systemic inequities. 
 
 ### Education
 
