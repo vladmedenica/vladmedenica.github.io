@@ -17,7 +17,7 @@ output:
 ---
 
 ### Bio
-Hi there! I am an Assistant Professor of Political Science at the University of Delaware, research consultant for the GenForward Survey at the University of Chicago, and an American politics editor for The Monkey Cage at *The Washington Post*. Originally from the borderlands of Southern California, I received my Ph.D. in Politics and Social Policy from Princeton University.
+I am a quantitative social scientist with a passion for leveraging my training in data analysis and social inequality to identify, communicate, and address systemic inequities. 
 
 ### Education
 
@@ -27,7 +27,3 @@ Hi there! I am an Assistant Professor of Political Science at the University of 
 
 - **University of Southern California** | BA, Psychology and Political Science (honors) | 2012
 
-
-### Skills
-
-### Experience
