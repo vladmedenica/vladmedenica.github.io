@@ -1,1 +1,1 @@
-This repository is for my "postcard" website, accessible at vladmedenica.github.io
+This repository is for my "postcard" website, accessible at <a href="vladmedenica.github.io">vladmedenica.github.io</a>
